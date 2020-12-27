@@ -1,0 +1,91 @@
+e:\addeq\documents\visual studio 2013\Projects\CashRegister\CashRegister\bin\Debug\CashRegister.exe.config
+e:\addeq\documents\visual studio 2013\Projects\CashRegister\CashRegister\bin\Debug\CashRegister.exe
+e:\addeq\documents\visual studio 2013\Projects\CashRegister\CashRegister\bin\Debug\CashRegister.pdb
+e:\addeq\documents\visual studio 2013\Projects\CashRegister\CashRegister\bin\Debug\CashRegister.xml
+e:\addeq\documents\visual studio 2013\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.vbprojResolveAssemblyReference.cache
+e:\addeq\documents\visual studio 2013\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.Form1.resources
+e:\addeq\documents\visual studio 2013\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.Resources.resources
+e:\addeq\documents\visual studio 2013\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.vbproj.GenerateResource.Cache
+e:\addeq\documents\visual studio 2013\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.exe
+e:\addeq\documents\visual studio 2013\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.xml
+e:\addeq\documents\visual studio 2013\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.pdb
+G:\CSLAB\CashRegister\CashRegister\bin\Debug\CashRegister.exe.config
+G:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.exe
+G:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.xml
+G:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.pdb
+H:\CSLAB\CashRegister\CashRegister\bin\Debug\CashRegister.exe.config
+H:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.exe
+H:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.xml
+H:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.pdb
+H:\CSLAB\CashRegister\CashRegister\bin\Debug\CashRegister.exe
+H:\CSLAB\CashRegister\CashRegister\bin\Debug\CashRegister.pdb
+H:\CSLAB\CashRegister\CashRegister\bin\Debug\CashRegister.xml
+H:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.vbprojResolveAssemblyReference.cache
+H:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.Form1.resources
+H:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.Form2.resources
+H:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.Resources.resources
+H:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.vbproj.GenerateResource.Cache
+G:\CSLAB\CashRegister\CashRegister\bin\Debug\CashRegister.exe
+G:\CSLAB\CashRegister\CashRegister\bin\Debug\CashRegister.pdb
+G:\CSLAB\CashRegister\CashRegister\bin\Debug\CashRegister.xml
+G:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.vbprojResolveAssemblyReference.cache
+G:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.Form1.resources
+G:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.Form2.resources
+G:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.Resources.resources
+G:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.vbproj.GenerateResource.Cache
+D:\CSLAB\CashRegister\CashRegister\bin\Debug\CashRegister.exe.config
+D:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.exe
+D:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.xml
+D:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.pdb
+D:\CSLAB\CashRegister\CashRegister\bin\Debug\CashRegister.exe
+D:\CSLAB\CashRegister\CashRegister\bin\Debug\CashRegister.pdb
+D:\CSLAB\CashRegister\CashRegister\bin\Debug\CashRegister.xml
+D:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.vbprojResolveAssemblyReference.cache
+D:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.Form1.resources
+D:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.Form2.resources
+D:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.Resources.resources
+D:\CSLAB\CashRegister\CashRegister\obj\Debug\CashRegister.vbproj.GenerateResource.Cache
+G:\CashRegister(vs2013)\CashRegister\bin\Debug\CashRegister.exe.config
+G:\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.exe
+G:\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.xml
+G:\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.pdb
+G:\CashRegister(vs2013)\CashRegister\bin\Debug\CashRegister.exe
+G:\CashRegister(vs2013)\CashRegister\bin\Debug\CashRegister.pdb
+G:\CashRegister(vs2013)\CashRegister\bin\Debug\CashRegister.xml
+G:\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.vbprojResolveAssemblyReference.cache
+G:\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.Form1.resources
+G:\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.Form2.resources
+G:\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.Resources.resources
+G:\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.vbproj.GenerateResource.Cache
+E:\Addeq\Downloads\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\bin\Debug\CashRegister.exe.config
+E:\Addeq\Downloads\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.exe
+E:\Addeq\Downloads\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.xml
+E:\Addeq\Downloads\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.pdb
+E:\Addeq\Downloads\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\bin\Debug\CashRegister.exe
+E:\Addeq\Downloads\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\bin\Debug\CashRegister.pdb
+E:\Addeq\Downloads\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\bin\Debug\CashRegister.xml
+E:\Addeq\Downloads\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.vbprojResolveAssemblyReference.cache
+E:\Addeq\Downloads\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.Form1.resources
+E:\Addeq\Downloads\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.Form2.resources
+E:\Addeq\Downloads\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.Resources.resources
+E:\Addeq\Downloads\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.vbproj.GenerateResource.Cache
+G:\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\bin\Debug\CashRegister.exe.config
+G:\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.exe
+G:\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.xml
+G:\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.pdb
+G:\Tutorial Tools\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\bin\Debug\CashRegister.exe.config
+G:\Tutorial Tools\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.exe
+G:\Tutorial Tools\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.xml
+G:\Tutorial Tools\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.pdb
+G:\Tutorial Tools\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\bin\Debug\CashRegister.exe
+G:\Tutorial Tools\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\bin\Debug\CashRegister.pdb
+G:\Tutorial Tools\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\bin\Debug\CashRegister.xml
+G:\Tutorial Tools\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.vbprojResolveAssemblyReference.cache
+G:\Tutorial Tools\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.Form1.resources
+G:\Tutorial Tools\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.Form2.resources
+G:\Tutorial Tools\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.Resources.resources
+G:\Tutorial Tools\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.vbproj.GenerateResource.Cache
+H:\Tutorial Tools\Windows Apps\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\bin\Debug\CashRegister.exe.config
+H:\Tutorial Tools\Windows Apps\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.exe
+H:\Tutorial Tools\Windows Apps\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.xml
+H:\Tutorial Tools\Windows Apps\VB\CashRegister(vs2013)\CashRegister(vs2013)\CashRegister\obj\Debug\CashRegister.pdb
